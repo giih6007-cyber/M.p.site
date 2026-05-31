@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Simple website</title>
-    <link rel="stylesheet" href="main.css">
-</head>
-<body>
-    <h1>Task List</h1>
-    <p id="msg">Current tasks:</p>
-    <ul>
-        <li class="list">Add visual styles</li>
-        <li class="list">Add light and dark themes</li>
-        <li class="list">Enable switching the theme</li>
-    </ul>
-</body>
-</html>
+
